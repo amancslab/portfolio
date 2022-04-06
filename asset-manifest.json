@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.63b22e68.css",
+    "main.js": "/portfolio/static/js/main.0d6302bc.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Aman-web-developer-resume.pdf": "/portfolio/static/media/Aman-web-developer-resume.0d7604c4620883ca4eec.pdf",
+    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.ba9458794dca1c746ef2.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.52102140f369ea233010.png",
+    "static/media/chatify.png": "/portfolio/static/media/chatify.9373eddae1a258056c35.png",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.4c15d6eb3fc75cfef85b.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/suicide.png": "/portfolio/static/media/suicide.b72f1f9ffeb4775a7803.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/emotion.jpeg": "/portfolio/static/media/emotion.e92e314a236f65bb89af.jpeg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.63b22e68.css.map": "/portfolio/static/css/main.63b22e68.css.map",
+    "main.0d6302bc.js.map": "/portfolio/static/js/main.0d6302bc.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63b22e68.css",
+    "static/js/main.0d6302bc.js"
+  ]
+}
